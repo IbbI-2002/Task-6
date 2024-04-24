@@ -1,0 +1,5 @@
+outs:
+- md5: 7e3686bda71bd1ba0ec8cbfb564207a6
+  size: 67247
+  hash: md5
+  path: smite_items.csv
